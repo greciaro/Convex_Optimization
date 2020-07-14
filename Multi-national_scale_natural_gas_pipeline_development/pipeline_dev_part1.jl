@@ -1,7 +1,3 @@
-# Grecia RO
-# Stanford University
-# 01/30/2019
-
 
 ####################################
 ######### Initialize tools #########
